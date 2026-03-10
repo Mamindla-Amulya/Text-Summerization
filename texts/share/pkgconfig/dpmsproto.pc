@@ -1,0 +1,7 @@
+prefix=/home/owner/Text-Summerization/texts
+includedir=${prefix}/include
+
+Name: DPMSProto
+Description: DPMS extension headers
+Version: 1.2
+Cflags: -I${includedir}
